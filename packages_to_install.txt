@@ -1,0 +1,5 @@
+huggingface_hub
+keras
+tensorflow
+numpy
+matplotlib
